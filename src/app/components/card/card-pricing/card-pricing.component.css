@@ -1,0 +1,44 @@
+.container-card-pricing {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	padding: 10px;
+
+	width: 100%;
+	height: 70px;
+	background-color: rgba(0, 0, 0, 0.603);
+
+	display: flex;
+	flex-direction: column;
+	color: #fff;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.title-card-pricing{
+	margin-bottom: 3px;
+}
+
+.value-card-pricing {
+	display: flex;
+	justify-content: space-between;
+}
+
+.console-value-card-pricing{
+	display: flex;
+}
+
+.console-value-card-pricing > span{
+	font-weight: bolder;
+	color: #51aeda;
+	margin-right: 10px;
+}
+
+
+/* .money-value-card-pricing{
+
+}
+
+.game-price{
+
+} */

@@ -1,0 +1,12 @@
+.container-home {
+	margin: 0 auto;
+	padding-top: 50px;
+	width: 90vw;
+
+	display: flex;
+	justify-content: space-around;
+	align-items: baseline;
+	flex-wrap: wrap;
+
+	/* border: 2px solid red; */
+}
